@@ -97,32 +97,3 @@ The best individuals are preserved between generations.
 ### 8. Iteration
 
 The process repeats for multiple generations to improve solutions.
-
----
-
-## 🚀 Features
-
-* Multiple test cases support
-* Input validation
-* Tournament selection (without lambda)
-* Elitism for better convergence
-* Multiple GA runs to improve solution quality
-
----
-
-## 📊 Notes
-
-* The genetic algorithm does not guarantee the exact optimal solution
-* It provides a near-optimal solution efficiently for large problems
-
----
-
-## 🎯 Conclusion
-
-This implementation demonstrates how evolutionary techniques can solve complex optimization problems where brute-force methods are impractical.
-
----
-
-## 👩‍💻 Author
-
-Student project – Optimization Techniques Lab
